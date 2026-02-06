@@ -1,0 +1,150 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    background-color: #ffffff;
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+.page-header{
+    background-color: #E7E9FC;
+}
+
+.logo {
+    font-family: 'Raleway', sans-serif;
+    color: #2E2F42;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.logo-footer{
+    font-family: 'Raleway', sans-serif;
+    color: #F4F4FD;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.logo-accent {
+    color: #4D5AE5;
+}
+
+.link{
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    text-decoration: none;
+}
+
+.link:hover,
+.link:focus{
+    color: #404BBF;
+}
+
+.address{
+    color: #434455;
+    text-decoration: none;
+    font-style:normal;
+}
+
+.address:hover,
+.address:focus{
+    color: #404BBF;
+}
+
+.hero-screene{
+    background-color: #2E2F42;
+}
+ 
+.hero-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+    text-align: center;
+}
+
+.hero-button{
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    background-color: #4D5AE5;
+}
+
+.hero-button:hover,
+.hero-button:focus{
+    background-color: #404BBF;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color:#2E2F42;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2E2F42;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+}
+
+.features-title{
+    text-align: left;
+}
+
+.section-team{
+    background-color: #F4F4FD;
+}
+
+.person-card{
+    background-color: #ffffff;
+}
+
+.person-info{
+    text-align: center;
+}
+
+.page-footer{
+    background-color: #2E2F42;
+}
+
+.footer-text{
+    color:#F4F4FD;
+}
