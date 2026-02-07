@@ -37,10 +37,6 @@ img {
     border-bottom: 1px solid #e7e9fc;
 }
 
-.header-container {
-    padding: 24px 0;
-}
-
 .logo {
     font-family: 'Raleway', sans-serif;
     color: #2E2F42;
@@ -50,6 +46,7 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
+    margin-right: 76px;
 }
 
 .logo-footer {
@@ -86,7 +83,7 @@ img {
 }
 
 .address {
-    display: block;     /* або inline-block */
+    display: block;   
     color: #434455;
     text-decoration: none;
     font-style: normal;
@@ -102,7 +99,7 @@ img {
 .header-container {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    padding: 24px 0;
 }
 
 .page-nav ul {
@@ -243,15 +240,12 @@ p {
                 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-.person-info {
-    text-align: center;
-    padding: 32px 16px;
-}
-
 .portfolio-info{
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
+    text-align: center;
+    padding: 32px 16px;
 }
 
 .person-info h3 {
