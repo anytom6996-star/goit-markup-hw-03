@@ -82,7 +82,7 @@ img {
     color: #404BBF;
 }
 
-header address {
+.header-address {
     margin-left: auto;
 }
 
@@ -109,10 +109,6 @@ header address {
 .page-nav ul {
     display: flex;
     gap: 40px;
-}
-
-.logo {
-    margin-right: 76px;
 }
 
 .contacts {
@@ -247,7 +243,6 @@ p {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    padding: 32px 16px;
     text-align: center;
 }
 
@@ -287,6 +282,11 @@ p {
     color:#F4F4FD;
     max-width: 265px;
     margin:0;
+}
+
+.person-info {
+    text-align: center;
+    padding: 32px 16px;
 }
 
 
